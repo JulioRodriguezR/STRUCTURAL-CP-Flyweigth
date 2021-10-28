@@ -2,7 +2,7 @@ package org.formacion.flyweight;
 
 public enum Camiseta {
 	
-	INSTANCE;
+	UNICA;
 	
 	private String camiseta = 
 			"                                                                                                                             \n" + 
